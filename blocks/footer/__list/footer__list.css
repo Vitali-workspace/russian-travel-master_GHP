@@ -1,0 +1,9 @@
+@media screen and (max-width: 725px) {
+  .footer__list {
+  padding-top: 32px;
+  }
+
+  .footer__list:first-child {
+  padding-top: 0;
+  }
+}

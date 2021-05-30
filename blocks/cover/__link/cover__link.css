@@ -10,6 +10,8 @@
   text-decoration: none;
   height: 68vw;
   max-height: 740px;
+  background-size: cover;
+  background-image: url(../../../images/cover-trains.jpg);
 }
 
 .cover__link::before {
